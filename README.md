@@ -1,7 +1,7 @@
 # messageNitroBadge
 Vencord plugin to enable the `Social Proofing Message Nitro Badge` experiment
 
-![](https://cdn.nest.rip/uploads/adef0b9e-cd4f-484b-883c-8021d466af3b.png)
+![](https://cdn.nest.rip/uploads/74ba1aca-c807-4667-8480-49aa121186c0.png)
 
 > Experiment Treatment
 >

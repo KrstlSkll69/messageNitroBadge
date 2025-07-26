@@ -39,8 +39,8 @@ export default definePlugin({
 
     settingsAboutComponent: () => <>
         <Forms.FormText className="vc-plugin-messageNitroBadge-notice">
-            Only shows Nitro Badge in servers. <br />
-            Doesnt show Nitro Badge for other people only yourself.
+            Only shows Nitro Badge in servers <br />
+            Doesnt show Nitro Badge for other people - ONLY YOURSELF
         </Forms.FormText>
     </>,
 
