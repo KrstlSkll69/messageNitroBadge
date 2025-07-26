@@ -8,6 +8,18 @@ Vencord plugin to enable the `Social Proofing Message Nitro Badge` experiment
 >
 > ![](https://cdn.nest.rip/uploads/90d25a21-5bd0-418a-9cbc-dc90a439673a.png)
 
+> Example
+>
+>
+> ![](https://cdn.nest.rip/uploads/7b554834-2032-4ccd-ac69-0efca101bec3.png)
+>
+> ------
+>
+> Hover ToolTip
+>
+>
+> ![](https://cdn.nest.rip/uploads/4d66270f-7402-44f0-824e-0b8245cef875.png)
+
 ## DOWNLOAD INSTRUCTIONS
 You can either __git clone__ the repository OR __manually install__ it by downloading it as a zip file.<br/>
 > [!WARNING]
